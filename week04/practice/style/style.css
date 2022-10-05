@@ -1,0 +1,30 @@
+body {
+    background-color: #C73E7B;
+}
+h1 {
+    text-align: center;
+}
+#up_p {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+li {
+    text-align: center;
+}
+img {
+    width: 30%;
+    margin: 0 auto;
+}
+#middle_p {
+    text-align: center;
+    font-size: 250%;
+    margin: 30%;
+}
+#lower_p {
+    text-align: center;
+}
+* {
+    border: 2px solid blue;
+}
