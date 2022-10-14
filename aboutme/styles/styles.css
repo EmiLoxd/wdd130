@@ -1,18 +1,20 @@
 
 nav {
     background-color: steelblue;
-    padding: 10px;
+    padding: 25px;
     text-align: center;
   }
 a {
     color: white;
     margin: 1.5em;
+    padding: 25px;
   }
 a:hover {
     background-color: whitesmoke;
     color: steelblue;
 }
 h1 {
+    margin: 50px 0;
     color: steelblue;
     text-align: center;
   }
@@ -24,13 +26,14 @@ img {
   }
 p {
     padding: 10px;
-  }
+}
 footer p {
     background-color: steelblue;
     color: white;
     text-align: center;
     font-size: 20px;
     margin: 20px;
+    padding: 25px;
   }
 .main-para {
   font-size: 1.5em;
@@ -42,4 +45,7 @@ footer p {
 #active {
   background-color: white;
   color: steelblue;
+}
+body{
+  margin: 0;
 }
