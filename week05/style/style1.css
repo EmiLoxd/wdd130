@@ -1,0 +1,15 @@
+footer{
+    background-color: blue;
+    margin: 0%;
+}
+.contenedor img{
+    justify-content: right;
+    width: 10%;
+    border-radius: 100%;
+    margin: 10%;
+    border-color: rgb(255, 252, 252);
+}
+header img{
+    width: 100%;
+    margin: 0%;
+}
