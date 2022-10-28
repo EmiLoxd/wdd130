@@ -164,7 +164,7 @@ footer p{
     padding-top: 3px;
 }
 footer p a:hover{
-    background-color: gray;
+    background-color: white;
     color: black;
     text-decoration: underline;
 }
